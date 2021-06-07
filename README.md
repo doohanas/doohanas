@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @doohanas
-- 👀 I’m interested in Website | Book | Otomotive | Self-Development | Engine
-- 🌱 I’m currently learning Web Design
+- 👀 I’m interested in Front End Website| Book | Otomotive | Self-Development | 
+- 🌱 I’m currently learning Front End Web Design
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

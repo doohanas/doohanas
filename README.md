@@ -1,6 +1,6 @@
- 👋 Hi, I’m @doohanas
- 👀 I’m interested in Front End Website| Book | Otomotive | Self-Development | 
- 🌱 I’m currently learning Front End Web Developer in Generasi GIGIH.
+- 👋 Hi, I’m @doohanas
+- 👀 I’m interested in Front End Website| Book | Otomotive | Self-Development | 
+- 🌱 I’m currently learning Front End Web Developer in Generasi GIGIH.
 
 <!---
 doohanas/doohanas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

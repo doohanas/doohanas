@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @doohanas
+- 👋 Hi, I’m Doohan AS
 - 👀 I’m interested in Front End Website| Book | Otomotive | Self-Development | 
 - 🌱 I’m currently learning Front End Web Developer in Generasi GIGIH.
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Doohan Aditya Saputro</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **Vue Js, Nuxt Js**
+- 🌱 I’m currently learning **Vue Js**
 
 - 📝 I regularly write articles on [https://www.anakteknik.co.id/doohanas](https://www.anakteknik.co.id/doohanas)
 

@@ -12,6 +12,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=doohanas&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=doohanas&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/doohan/doohanas-profile/blob/main/devcard.svg" width="400" alt="Doohan AS's Dev Card"/></a>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=doohanas&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
